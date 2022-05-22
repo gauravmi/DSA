@@ -1,6 +1,6 @@
 Common patterns/basics that you need to know in a programming language to solve competative programming problems.
 
-###Fixed size Array
+### Fixed size Array
 - Iterate on all elements of the array
 - Get the element by its index 
 - Get size of an array
@@ -16,7 +16,7 @@ Common patterns/basics that you need to know in a programming language to solve 
 - Remove last element from the array with extra space
 - Remove last element from the array with without extra space
 
-###String
+### String
 - Given the start and end index get a its substring
 - Get a character at a index
 - Split string by a delimeter
@@ -25,7 +25,7 @@ Common patterns/basics that you need to know in a programming language to solve 
 - Find first index of a substring
 - get size of a string
 
-###HashMap
+### HashMap
 - Create new hashMap
 - Get all keys of a map
 - Get all values of a map
@@ -36,14 +36,14 @@ Common patterns/basics that you need to know in a programming language to solve 
 - Check if value exists in the map
 - Get size of a map
 
-###Set
+### Set
 - Create a new set
 - Convert set to fixed size array or list
 - Iterate over a set
 - Check if a value exists in the set
 - Get Size of a set
 
-###Dynamically Sized List (ex. List in java, [] in python)
+### Dynamically Sized List (ex. List in java, [] in python)
 - Get element by index
 - Copy all elements to another list
 - Remove last element from list
