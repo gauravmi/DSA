@@ -15,6 +15,9 @@ Common patterns/basics that you need to know in a programming language to solve 
 - Create a copy of an array
 - Remove last element from the array with extra space
 - Remove last element from the array with without extra space
+- Calculate sum of all numbers in a array
+- Caculate prefix sum, prefix min, prefix max, prefix product for an array
+- Caculate suffix sum, suffix min, suffix max, suffix product for an array
 
 ### String
 - Given the start and end index get a its substring
@@ -52,3 +55,9 @@ Common patterns/basics that you need to know in a programming language to solve 
 - Given start and end index copy all elements that occur from start to end to another list
 - swap two elements of a list given its indexes
 - Convert list to preimitive fixed sized array (specific to java)
+
+### Misc
+- Minimum value of a integer . for ex - Integer.MIN_VALUE in java
+- Max value of a Integer
+- Get max/min of two numbers (ex. Math.max in java)
+- Declaring long, doubles
